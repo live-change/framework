@@ -41,6 +41,8 @@
     "websocket": "^1.0.31"
   },
   "dependencies": {
-    "@live-change/dao": "^0.2.3"
+    "@elastic/elasticsearch": "^7.6.1",
+    "@live-change/dao": "^0.2.3",
+    "@live-change/event-sourcing": "^0.1.1"
   }
 }
