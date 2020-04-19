@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.6.1",
-    "@live-change/dao": "^0.2.3",
-    "@live-change/event-sourcing": "^0.1.1"
+    "@live-change/dao": "^0.2.5",
+    "@live-change/event-sourcing": "^0.1.5"
   }
 }
