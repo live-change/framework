@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/live-change/framework",
   "devDependencies": {
-    "@live-change/dao-websocket": "^0.2.6",
+    "@live-change/dao-websocket": "^0.2.10",
     "@live-change/db": "^0.2.5",
     "@live-change/db-store-level": "^0.1.9",
     "@live-change/db-store-lmdb": "^0.1.8",
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.7.1",
-    "@live-change/dao": "^0.2.9",
+    "@live-change/dao": "^0.2.16",
     "@live-change/event-sourcing": "^0.1.6"
   }
 }
