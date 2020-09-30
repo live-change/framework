@@ -43,6 +43,6 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.7.1",
     "@live-change/dao": "^0.2.16",
-    "@live-change/event-sourcing": "^0.1.7"
+    "@live-change/event-sourcing": "^0.1.8"
   }
 }
