@@ -1,6 +1,6 @@
 {
   "name": "@live-change/framework",
-  "version": "0.4.15",
+  "version": "0.4.16",
   "description": "Live Change Framework - ultimate solution for real time mobile/web apps",
   "main": "index.js",
   "scripts": {
