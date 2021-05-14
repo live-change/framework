@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/live-change/framework",
   "devDependencies": {
-    "@live-change/dao": "^0.2.35",
+    "@live-change/dao": "^0.2.44",
     "@live-change/dao-websocket": "^0.2.21",
     "@live-change/db": "^0.2.5",
     "@live-change/db-store-level": "^0.1.14",
