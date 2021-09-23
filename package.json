@@ -29,20 +29,20 @@
     "cookie": "^0.4.1",
     "encoding-down": "^7.0.0",
     "express": "^4.17.1",
-    "level-rocksdb": "^4.0.0",
-    "leveldown": "^6.0.0",
+    "level-rocksdb": "^5.0.0",
+    "leveldown": "^6.0.2",
     "levelup": "^5.0.1",
     "memdown": "^6.0.0",
-    "node-lmdb": "^0.9.4",
+    "node-lmdb": "^0.9.5",
     "os-service": "^2.2.0",
     "rimraf": "^3.0.2",
-    "rocksdb": "^5.0.0",
+    "rocksdb": "^5.1.0",
     "sockjs": "^0.3.21",
     "subleveldown": "^5.0.1",
-    "tape": "^5.2.2",
+    "tape": "^5.3.1",
     "websocket": "^1.0.34"
   },
   "dependencies": {
-    "@elastic/elasticsearch": "^7.13.0"
+    "@elastic/elasticsearch": "^7.14.1"
   }
 }
