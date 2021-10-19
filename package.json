@@ -41,8 +41,5 @@
     "subleveldown": "^5.0.1",
     "tape": "^5.3.1",
     "websocket": "^1.0.34"
-  },
-  "dependencies": {
-    "@elastic/elasticsearch": "7.13.0"
   }
 }
