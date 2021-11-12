@@ -6,6 +6,9 @@ App.app = () => {
   return global.liveChangeFrameworkApp
 }
 
+App.utils = require('./lib/utils.js')
+App.validation = require('./lib/utils/validation.js')
+
 module.exports = App
 
 module.exports.ActionDefinition = require('./lib/definition/ActionDefinition.js')
