@@ -1,15 +1,18 @@
 const App = require('./lib/App.js')
-App.app = () => {
+
+module.exports = App
+
+module.exports.app = () => {
   if(!global.liveChangeFrameworkApp) {
     global.liveChangeFrameworkApp = new App()
   }
   return global.liveChangeFrameworkApp
 }
 
-App.utils = require('./lib/utils.js')
-App.validation = require('./lib/utils/validation.js')
+module.exports.utils = require('./lib/utils.js')
+module.exports.validation = require('./lib/utils/validation.js')
+module.exports.rangeProperties = module.exports.utils.rangeProperties
 
-module.exports = App
 
 module.exports.ActionDefinition = require('./lib/definition/ActionDefinition.js')
 module.exports.EventDefinition = require('./lib/definition/EventDefinition.js')
